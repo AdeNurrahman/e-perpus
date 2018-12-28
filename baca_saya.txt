@@ -1,0 +1,22 @@
+-----------------------------------------------PROJECT UAS----------------------------------------------------
+
+Nama	: Ade Nurrahman Syah
+Kelas	: 12.3C.39
+NIM	: 12174265
+
+keterangan:
+
+data base :
+e-perpus.sql
+ 
+halaman awal
+http://localhost/e-perpus/
+
+halaman login
+http://localhost/e-perpus/home/v_login
+
+username: admin
+password: admin
+
+halaman admin
+http://localhost/e-perpus/home/v_admin
